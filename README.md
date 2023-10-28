@@ -1,16 +1,4 @@
-# Curved Design
+Fit Health
 
-Code for a simple ui screen created with flutter.
-
-Design credit - https://dribbble.com/shots/6687016-Foody-Food-by-Subscription
-
-How do I code this - https://youtu.be/K1uH_SN4X0w
-
-## Screenshots
-
-![Screenshot_20190801-030839](https://user-images.githubusercontent.com/8137504/62318844-51c08900-b4ba-11e9-9aca-85b9641234ee.png)
-![Screenshot_20190801-030856](https://user-images.githubusercontent.com/8137504/62318845-51c08900-b4ba-11e9-9390-aa9c35e0ce70.png)
-![Screenshot_20190801-030910](https://user-images.githubusercontent.com/8137504/62318847-52591f80-b4ba-11e9-984d-0f6f400a92f7.png)
-![Screenshot_20190801-030918](https://user-images.githubusercontent.com/8137504/62318848-52591f80-b4ba-11e9-8124-cddda049b70a.png)
-
+Fithealth is a state-of-the-art cross-platform framework for nutrition meal tracking application developed using Flutter. With the help of this software, users may take a proactive approach to establishing and maintaining a healthy lifestyle by carefully tracking the food they consume. Fithealth offers a smooth monitoring experience for nutritional data thanks to its simple features and user-friendly layout, making it a priceless resource for anybody committed to improving their eating habits. Fithealth is a comprehensive solution to help you remain on track and reach your health and wellness goals, regardless of whether you're concentrating on weight control, fitness goals, or just trying to make educated food choices.
 
